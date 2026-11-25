@@ -1,0 +1,1 @@
+{"description":"make.fun entry: one fortune cookie line an AI agent would crack open","license":"MIT","main":"main.ts","name":"fortune-cookie-machine-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
